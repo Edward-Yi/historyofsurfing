@@ -1,0 +1,25 @@
+body{
+  font-family: 'Michroma',sans-serif;
+  color: yellow;
+  background-image: url("https://cdn.newsapi.com.au/image/v1/1841b2e52aa5cd75ef19343f3da170d3?width=1024");
+}
+
+h1, h2{
+  font-family: 'Lora', sans-serif;
+  text-align: center;
+}
+
+img{
+  float: left;
+  width: 200px;
+}
+
+h3{
+  font-family: 'Lora', sans-serif;
+  postion: absolute;
+}
+
+.surfer{
+  float: left;
+  padding: 25%;
+}
